@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: .4s;
+}
+
+h1{
+    display: none;
+}
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;=
+}
+
+.block {
+    padding-top: 50px;
+}
+
+.input {
+    width: 50%;
+    margin-right: 20px;
+}
+
+.img {
+    width: 320px;
+}
